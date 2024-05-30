@@ -2,3 +2,4 @@ streamlit
 pickle
 datetime
 numpy
+scikit-learn
