@@ -63,3 +63,5 @@ if __name__ == "__main__":
     main()
 
 ## Źródło danych [https://www.kaggle.com/c/titanic/](https://www.kaggle.com/c/titanic), zastosowanie przez Adama Ramblinga
+
+st.write("s20601")
